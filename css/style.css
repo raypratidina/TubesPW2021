@@ -1,0 +1,30 @@
+.table {
+    width: 100%;
+    padding: 10px;
+    font-family: arial;
+    text-align: left;
+}
+th {
+    background-color: rgba(84, 160, 255,1.0)
+}
+img {
+    max-height: 200%;
+    opacity: 50%;
+}
+.categori {
+    border: 1px solid black;
+    font-size: 14px;
+    padding: 12px 12px;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    background-color: darkgreen;
+    border-radius: 20px;
+    color:rgb(0, 0, 0);
+
+}
+
+section, footer {
+    padding: 0.3% 0;
+   
+}
